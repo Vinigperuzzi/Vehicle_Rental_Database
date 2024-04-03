@@ -18,4 +18,5 @@ Our project will be to build a database responsible for managing data for a vehi
 
 You may simply clone this repository and run the queries in the SGBD workbench you prefer.
 
-Good luck with happy coding! 🧙‍♂️
+Happy Coding! 
+### Vinigperuzzi 🧙‍♂️
