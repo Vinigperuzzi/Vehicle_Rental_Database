@@ -3,7 +3,7 @@
 # Introduction
 The project aims to build a real database for a vehicle rental company. During the execution of this challenge, you will have the opportunity to practice and refine all the SQL basic skills.
 
-ADVISE: Some queries hasn't the most desirable method, like search for a specific entry to update with a column that are not unique, but it intends to be academic and theorical. So I kept doing what has been taught in the basics of the course.
+ADVISE: Some queries hasn't the most desirable method, like to search for a specific entry to update with a column that are not unique, but this challenge intends to be academic and theorical. So I kept doing what has been taught in the basics of the course.
 
 ***
 
